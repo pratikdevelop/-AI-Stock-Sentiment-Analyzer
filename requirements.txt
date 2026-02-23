@@ -5,3 +5,4 @@ requests
 matplotlib
 groq
 python-dotenv
+sqlalchemy
