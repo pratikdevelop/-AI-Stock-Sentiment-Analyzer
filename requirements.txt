@@ -6,3 +6,5 @@ matplotlib
 groq
 python-dotenv
 sqlalchemy
+streamlit-autorefresh
+supabase
